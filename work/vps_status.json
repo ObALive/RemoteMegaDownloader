@@ -1,0 +1,1 @@
+{"ts":"2026-10-06 10:29:31","state":"QUOTA_WAIT","runner":"running","total":12,"completed":4,"skipped":4,"failed":0,"quota_exceeded":false,"quota_waiting":true,"current":"","current_pct":0,"done_bytes":5882677159,"total_bytes":18337033346,"free_gb":313,"last":"[2026-10-06 10:18:01] [5/12] ⏸ 配额超限, 第 2 次等待 1800s 后重试 (SD42 full "}
